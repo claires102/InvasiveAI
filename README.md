@@ -7,7 +7,7 @@ The algorithm uses a datset to re-train the resnet-18 network. It is trained by 
 
 # Running the program
 1. Connect to the Jetson Nano
-2. In the jetson-inference/python/training/classification/data directory, download the dataset (wget https://download947.mediafire.com/uxnqx1yjsj6g6B0IhkPaBkliaUMSjD-M5IzHts-dNlaxHSTBoi3hHfFeqwt2Mn0O8iA6xMZZg2saFrmvkzDRgWMB2GcHeDwSpt8VvqGpX7fHCegsf8HKl9l-GY2-5edefGzAdBSN39-kdUuW9Oa1gfWUlbsYauS6JHVvCN9mv0QS7Nk/3xpk93kw9kaxzr0/myproject.zip) and unzip the file
+2. In the jetson-inference/python/training/classification/data directory, download the dataset (wget https://download937.mediafire.com/pb320kx27jtg7bJV2H0QTLhwf-aCu445WpEQ9w8VlpVkwZwWssnqs-VdeSJWapwSg_UWwGjLP1xNtfTNbADUbFZDEyQcHNxZZtS8QbWEsSf7dP7Axoe17XQ46pTetRDfJ_kilHu9bOOjfPwhZh8oLyx3AG8HbzBRSbUTwkh2k_YaEzg/xglmp6tgfcgaitt/myproject.zip) and unzip the file
 3. From the jetson-inference folder, run ./docker/run.sh
 4. In the jetson-inference/python/training/classification directory, run python3 train.py --model-dir=models/myproject data/myproject to re-train the network
 5. Run python3 onnx_export.py --model-dir=models/myproject
