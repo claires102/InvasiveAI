@@ -1,4 +1,5 @@
-# The Leafproject uses resnet-18 re-trained model and imagenet to classify healthy and unhealthy leaf images. 
+# The Leafproject 
+Projects uses resnet-18 re-trained model and imagenet to classify healthy and unhealthy leaf images. 
 
 # Purpose
 Powdery mildew is a common yet deadly disease among many different plants that causes leaves to turn yellow and eventually die off. The least-toxic fungicides used to treat this must be applied as soon as the first sign of disease is spotted. Classifying healthy and unhealthy leaves affected by the powdery mildew using images will help in detecting the presence of this disease.
