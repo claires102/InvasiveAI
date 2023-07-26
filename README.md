@@ -15,6 +15,5 @@ Powdery mildew is a common yet deadly disease among many different plants that c
 9. View output image
 
 # Required Libraries
-resnet-18
-
-imagenet
+1. resnet-18
+2. imagenet
