@@ -19,3 +19,6 @@ The algorithm uses a datset to re-train the resnet-18 network. It is trained by 
 Required 
 1. resnet-18
 2. imagenet
+
+# Video Demonstration
+Here is the link to my video: https://youtu.be/N0RhOzZREXc
